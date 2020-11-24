@@ -1,1 +1,1 @@
-# polosaure
+# polosaure script client
